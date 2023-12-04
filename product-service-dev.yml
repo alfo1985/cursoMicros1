@@ -1,2 +1,5 @@
-DESARROLLO
-DEVELOP
+mongodb:
+  connection:
+    url: http://localhost:9000/mongo
+    username: mitocode
+    password: '{cipher}5532051559eba21197b21ee691a18586127f2438c552ec289760e5f178b4c238'
